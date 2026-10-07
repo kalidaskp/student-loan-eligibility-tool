@@ -1,0 +1,151 @@
+application_id,student_age,nationality,visa_type,visa_end_date,university,program_level,enrollment_status,program_end_date,annual_tuition,annual_living_cost,savings,monthly_part_time_income,family_support_annual,existing_debt,requested_loan_amount,loan_duration_months,guarantor_exists,guarantor_french_resident,guarantor_annual_income,application_date
+APP0001,31,China,Student visa,2028-09-07,Sciences Po,Master,Enrolled,2028-10-07,0,14578,10000,500,8000,0,25000,60,Yes,No,50000,2026-10-07
+APP0002,20,Nigeria,Student visa,2028-09-07,Sorbonne University,PhD,Enrolled,2029-05-07,8000,17666,6000,0,2000,0,10000,48,No,No,0,2026-10-07
+APP0003,23,China,Student visa,2027-07-07,Université Paris-Saclay,Master,Enrolled,2027-10-07,0,17792,15000,700,2000,0,15000,60,Yes,No,35000,2026-10-07
+APP0004,19,India,Student visa,2027-04-07,Paris Dauphine,Bachelor,Enrolled,2027-09-07,3000,12843,1000,900,8000,6000,20000,60,Yes,Yes,15000,2026-10-07
+APP0005,20,Nigeria,Student visa,2028-12-07,Université Paris-Saclay,Bachelor,Enrolled,2029-07-07,12000,17684,1000,700,0,6000,15000,60,Yes,Yes,25000,2026-10-07
+APP0006,26,Germany,Residence permit,2029-09-07,Sorbonne University,Master,Enrolled,2028-01-07,8000,15184,15000,700,5000,0,10000,120,Yes,Yes,15000,2026-10-07
+APP0007,26,Italy,Residence permit,2028-10-07,Paris Dauphine,Bachelor,Enrolled,2027-04-07,8000,17110,10000,700,5000,3000,10000,24,No,No,0,2026-10-07
+APP0008,28,Morocco,Residence permit,2028-01-07,ESSEC,Bachelor,Enrolled,2027-10-07,8000,14116,6000,900,2000,0,15000,60,No,No,0,2026-10-07
+APP0009,25,Nigeria,Residence permit,2028-10-07,Paris Dauphine,Bachelor,Enrolled,2028-01-07,15000,11693,3000,0,5000,3000,6000,60,No,No,0,2026-10-07
+APP0010,29,Morocco,Student visa,2028-01-07,ESSEC,Master,Enrolled,2027-10-07,0,14530,3000,0,0,0,25000,24,Yes,No,25000,2026-10-07
+APP0011,30,Italy,Residence permit,2027-02-07,Paris Dauphine,PhD,Enrolled,2027-08-07,3000,9698,6000,500,0,0,25000,48,Yes,Yes,25000,2026-10-07
+APP0012,24,USA,Student visa,2029-08-07,HEC Paris,Bachelor,Enrolled,2029-02-07,15000,13218,1000,700,5000,6000,10000,24,Yes,Yes,25000,2026-10-07
+APP0013,21,Germany,Residence permit,2028-08-07,Sciences Po,PhD,Enrolled,2027-07-07,0,10986,10000,300,0,6000,10000,36,Yes,Yes,35000,2026-10-07
+APP0014,29,Turkey,Student visa,2029-04-07,Sciences Po,Bachelor,Enrolled,2028-09-07,20000,13061,6000,0,0,6000,10000,24,No,No,0,2026-10-07
+APP0015,23,India,Student visa,2029-08-07,ESSEC,Bachelor,Enrolled,2027-12-07,3000,11255,10000,700,8000,1000,3000,60,Yes,Yes,50000,2026-10-07
+APP0016,22,Nigeria,Student visa,2029-01-07,HEC Paris,Master,Enrolled,2029-08-07,3000,13973,6000,500,8000,0,15000,24,No,No,0,2026-10-07
+APP0017,26,USA,Residence permit,2027-07-07,Sorbonne University,Master,Enrolled,2027-04-07,8000,17050,6000,0,5000,6000,10000,48,Yes,Yes,25000,2026-10-07
+APP0018,19,Turkey,Student visa,2027-05-07,Sciences Po,Master,Enrolled,2028-07-07,3000,13642,10000,0,12000,0,6000,48,Yes,Yes,35000,2026-10-07
+APP0019,23,China,Student visa,2028-12-07,Université Paris-Saclay,PhD,Enrolled,2028-05-07,20000,12170,15000,0,2000,0,6000,48,No,No,0,2026-10-07
+APP0020,28,Nigeria,Student visa,2027-03-07,HEC Paris,Master,Enrolled,2029-03-07,3000,13014,15000,0,5000,3000,15000,24,Yes,Yes,70000,2026-10-07
+APP0021,28,Vietnam,Student visa,2029-02-07,Sciences Po,Master,Enrolled,2029-04-07,12000,15971,6000,500,8000,1000,15000,60,Yes,Yes,35000,2026-10-07
+APP0022,30,India,Student visa,2027-02-07,Paris Dauphine,Master,Enrolled,2029-01-07,3000,12769,6000,0,5000,0,3000,48,No,No,0,2026-10-07
+APP0023,30,Morocco,Residence permit,2027-05-07,Paris Dauphine,Bachelor,Enrolled,2027-09-07,0,16027,3000,500,0,0,25000,36,Yes,Yes,50000,2026-10-07
+APP0024,30,Italy,Residence permit,2029-02-07,Sorbonne University,PhD,Enrolled,2028-12-07,0,10150,6000,300,0,0,6000,24,Yes,Yes,25000,2026-10-07
+APP0025,25,USA,Residence permit,2027-05-07,Sciences Po,Master,Enrolled,2029-02-07,0,13249,3000,700,0,0,3000,24,Yes,Yes,70000,2026-10-07
+APP0026,28,Brazil,Residence permit,2029-02-07,Sorbonne University,Bachelor,Enrolled,2027-10-07,3000,16421,3000,300,5000,1000,3000,36,Yes,No,15000,2026-10-07
+APP0027,23,Germany,Residence permit,2027-04-07,Sciences Po,PhD,Enrolled,2028-07-07,12000,15303,15000,500,2000,1000,10000,48,Yes,Yes,50000,2026-10-07
+APP0028,30,Morocco,Residence permit,2027-03-07,ESSEC,Bachelor,Enrolled,2027-11-07,20000,16723,3000,0,2000,0,15000,24,No,No,0,2026-10-07
+APP0029,20,Brazil,Residence permit,2027-07-07,Paris Dauphine,Bachelor,Enrolled,2028-12-07,3000,9412,0,300,12000,1000,10000,48,Yes,Yes,35000,2026-10-07
+APP0030,22,China,Student visa,2028-06-07,Sciences Po,Bachelor,Enrolled,2029-03-07,15000,12440,6000,700,2000,0,10000,60,No,No,0,2026-10-07
+APP0031,24,Morocco,Student visa,2028-01-07,HEC Paris,Master,Enrolled,2028-08-07,0,16400,10000,300,12000,1000,10000,36,No,No,0,2026-10-07
+APP0032,27,Italy,Residence permit,2028-09-07,Université Paris-Saclay,Master,Enrolled,2029-02-07,15000,10062,0,300,0,1000,10000,120,Yes,Yes,25000,2026-10-07
+APP0033,28,Germany,Student visa,2028-05-07,Sciences Po,PhD,Enrolled,2027-10-07,8000,10191,0,700,8000,0,3000,48,Yes,Yes,15000,2026-10-07
+APP0034,19,China,Residence permit,2027-07-07,Sciences Po,Master,Not enrolled,2027-07-07,8000,16419,0,700,5000,0,25000,48,Yes,No,50000,2026-10-07
+APP0035,22,China,Residence permit,2029-04-07,HEC Paris,Bachelor,Enrolled,2027-12-07,12000,15530,6000,900,2000,0,20000,120,Yes,Yes,35000,2026-10-07
+APP0036,30,USA,Student visa,2029-08-07,Sciences Po,PhD,Enrolled,2028-06-07,15000,14348,3000,500,0,0,6000,24,No,No,0,2026-10-07
+APP0037,27,Vietnam,Student visa,2027-11-07,Université Paris-Saclay,Bachelor,Enrolled,2028-07-07,15000,16575,6000,0,0,0,10000,36,Yes,Yes,70000,2026-10-07
+APP0038,29,Vietnam,Student visa,2028-05-07,Sorbonne University,Master,Enrolled,2028-12-07,15000,11779,3000,0,0,6000,10000,120,Yes,Yes,25000,2026-10-07
+APP0039,20,Brazil,Student visa,2027-05-07,Université Paris-Saclay,Master,Enrolled,2027-04-07,15000,11193,15000,0,5000,0,25000,48,Yes,Yes,70000,2026-10-07
+APP0040,19,USA,Student visa,2028-09-07,Paris Dauphine,Master,Enrolled,2027-09-07,12000,14989,15000,500,8000,3000,10000,120,Yes,Yes,15000,2026-10-07
+APP0041,31,Vietnam,Student visa,2027-04-07,Paris Dauphine,Bachelor,Enrolled,2028-08-07,15000,12419,3000,0,5000,0,20000,36,Yes,Yes,70000,2026-10-07
+APP0042,24,Italy,Student visa,2027-05-07,Paris Dauphine,PhD,Enrolled,2029-06-07,8000,13719,3000,300,8000,1000,20000,60,No,No,0,2026-10-07
+APP0043,20,USA,Student visa,2028-06-07,Université Paris-Saclay,Bachelor,Enrolled,2029-06-07,0,10331,6000,300,12000,0,10000,24,No,No,0,2026-10-07
+APP0044,22,Brazil,Residence permit,2027-10-07,Université Paris-Saclay,Bachelor,Not enrolled,2028-01-07,15000,14971,3000,900,5000,0,15000,48,No,No,0,2026-10-07
+APP0045,29,Vietnam,Residence permit,2028-04-07,Sorbonne University,PhD,Enrolled,2027-11-07,12000,17472,10000,300,8000,0,6000,48,Yes,Yes,15000,2026-10-07
+APP0046,20,Nigeria,Residence permit,2029-04-07,HEC Paris,PhD,Enrolled,2029-01-07,0,15376,3000,700,0,0,6000,36,No,No,0,2026-10-07
+APP0047,27,Turkey,Residence permit,2028-10-07,Université Paris-Saclay,Master,Enrolled,2029-09-07,0,13143,0,0,8000,3000,6000,36,No,No,0,2026-10-07
+APP0048,26,China,Student visa,2027-02-07,Sorbonne University,Bachelor,Enrolled,2028-05-07,0,14126,6000,700,8000,0,20000,48,No,No,0,2026-10-07
+APP0049,30,Turkey,Student visa,2027-10-07,Université Paris-Saclay,PhD,Enrolled,2028-08-07,3000,16641,6000,0,2000,0,10000,24,Yes,Yes,50000,2026-10-07
+APP0050,20,Nigeria,Student visa,2027-08-07,Paris Dauphine,Bachelor,Enrolled,2028-03-07,0,11472,3000,700,5000,0,10000,120,Yes,Yes,35000,2026-10-07
+APP0051,23,India,Student visa,2028-10-07,Paris Dauphine,Bachelor,Enrolled,2027-09-07,3000,15986,0,700,0,3000,3000,120,No,No,0,2026-10-07
+APP0052,24,Turkey,Student visa,2027-02-07,Université Paris-Saclay,Bachelor,Enrolled,2028-02-07,15000,17837,15000,300,8000,3000,15000,48,No,No,0,2026-10-07
+APP0053,24,Vietnam,Residence permit,2029-02-07,Sorbonne University,PhD,Enrolled,2028-10-07,0,13208,6000,700,8000,0,10000,60,Yes,Yes,50000,2026-10-07
+APP0054,26,Brazil,Residence permit,2027-10-07,Sorbonne University,Master,Enrolled,2028-01-07,20000,11060,6000,0,0,0,3000,48,Yes,Yes,25000,2026-10-07
+APP0055,30,Morocco,Student visa,2028-02-07,Paris Dauphine,Bachelor,Not enrolled,2028-02-07,20000,11635,3000,900,8000,0,15000,48,Yes,No,50000,2026-10-07
+APP0056,30,Morocco,Residence permit,2029-06-07,HEC Paris,Master,Enrolled,2027-08-07,15000,16546,6000,900,2000,1000,15000,48,No,No,0,2026-10-07
+APP0057,19,USA,Student visa,2029-01-07,Sciences Po,PhD,Enrolled,2028-06-07,8000,10997,0,0,5000,0,6000,48,Yes,Yes,25000,2026-10-07
+APP0058,31,China,Student visa,2029-09-07,HEC Paris,PhD,Enrolled,2027-10-07,12000,11204,1000,300,2000,3000,3000,36,Yes,Yes,50000,2026-10-07
+APP0059,29,Turkey,Student visa,2027-10-07,Sorbonne University,Bachelor,Enrolled,2027-09-07,8000,15371,3000,500,5000,1000,10000,60,No,No,0,2026-10-07
+APP0060,20,Nigeria,Residence permit,2029-03-07,Sorbonne University,Master,Enrolled,2028-10-07,12000,9793,3000,300,0,6000,10000,36,No,No,0,2026-10-07
+APP0061,30,Brazil,Residence permit,2029-02-07,HEC Paris,Bachelor,Enrolled,2029-09-07,0,16790,10000,500,0,6000,15000,120,No,No,0,2026-10-07
+APP0062,28,China,Residence permit,2029-04-07,Université Paris-Saclay,Bachelor,Enrolled,2027-12-07,8000,16196,1000,700,12000,0,6000,36,No,No,0,2026-10-07
+APP0063,24,India,Student visa,2028-11-07,Paris Dauphine,Bachelor,Not enrolled,2029-01-07,8000,14031,6000,300,8000,0,15000,36,No,No,0,2026-10-07
+APP0064,29,Brazil,Residence permit,2027-02-07,HEC Paris,Master,Enrolled,2029-06-07,12000,12600,6000,0,12000,0,10000,60,Yes,Yes,35000,2026-10-07
+APP0065,29,Nigeria,Residence permit,2028-10-07,Paris Dauphine,Bachelor,Enrolled,2028-09-07,12000,9966,15000,300,5000,3000,10000,24,Yes,No,25000,2026-10-07
+APP0066,21,Morocco,Student visa,2028-07-07,HEC Paris,Master,Enrolled,2029-09-07,0,13524,3000,700,5000,0,15000,36,Yes,Yes,25000,2026-10-07
+APP0067,24,USA,Residence permit,2027-04-07,HEC Paris,PhD,Enrolled,2029-08-07,0,13873,3000,500,5000,0,6000,36,Yes,Yes,25000,2026-10-07
+APP0068,26,Germany,Residence permit,2027-01-07,Sorbonne University,Bachelor,Enrolled,2027-06-07,3000,17519,1000,700,0,1000,6000,36,No,No,0,2026-10-07
+APP0069,26,Vietnam,Student visa,2028-02-07,Paris Dauphine,PhD,Enrolled,2028-05-07,15000,13547,15000,0,5000,0,3000,36,No,No,0,2026-10-07
+APP0070,31,Germany,Student visa,2028-07-07,Sciences Po,Master,Enrolled,2029-07-07,12000,15852,3000,0,2000,1000,6000,120,Yes,Yes,15000,2026-10-07
+APP0071,23,India,Student visa,2028-10-07,Université Paris-Saclay,Master,Enrolled,2028-08-07,15000,11679,15000,300,0,0,10000,24,Yes,Yes,25000,2026-10-07
+APP0072,24,Germany,Student visa,2028-10-07,Paris Dauphine,PhD,Enrolled,2027-07-07,0,17996,0,900,0,1000,6000,24,Yes,Yes,25000,2026-10-07
+APP0073,23,China,Student visa,2028-10-07,Paris Dauphine,PhD,Enrolled,2029-04-07,3000,13263,3000,500,5000,1000,20000,120,Yes,Yes,50000,2026-10-07
+APP0074,30,China,Student visa,2027-01-07,HEC Paris,Bachelor,Enrolled,2027-07-07,15000,13124,3000,0,2000,3000,6000,48,Yes,Yes,15000,2026-10-07
+APP0075,25,Italy,Student visa,2028-12-07,Université Paris-Saclay,PhD,Not enrolled,2027-08-07,8000,16715,6000,0,8000,3000,25000,48,No,No,0,2026-10-07
+APP0076,27,India,Student visa,2028-05-07,HEC Paris,PhD,Enrolled,2029-08-07,12000,15185,3000,0,0,0,25000,36,Yes,Yes,15000,2026-10-07
+APP0077,19,Italy,Residence permit,2028-05-07,ESSEC,Bachelor,Not enrolled,2029-02-07,8000,13107,6000,700,8000,3000,15000,24,Yes,Yes,50000,2026-10-07
+APP0078,30,Turkey,Student visa,2028-03-07,ESSEC,Master,Enrolled,2027-12-07,20000,17238,0,500,12000,1000,10000,120,No,No,0,2026-10-07
+APP0079,21,Brazil,Residence permit,2027-08-07,HEC Paris,Master,Not enrolled,2029-02-07,15000,12294,10000,700,2000,3000,3000,48,No,No,0,2026-10-07
+APP0080,29,China,Student visa,2029-02-07,HEC Paris,PhD,Enrolled,2028-03-07,12000,15640,6000,500,8000,1000,10000,60,Yes,Yes,50000,2026-10-07
+APP0081,29,Italy,Student visa,2028-01-07,Paris Dauphine,PhD,Enrolled,2027-06-07,0,11032,3000,300,5000,3000,25000,36,Yes,Yes,50000,2026-10-07
+APP0082,19,Nigeria,Residence permit,2029-06-07,Sorbonne University,Master,Enrolled,2028-04-07,8000,11033,3000,0,0,0,25000,24,Yes,Yes,35000,2026-10-07
+APP0083,29,China,Student visa,2027-06-07,ESSEC,Master,Not enrolled,2028-05-07,12000,10868,15000,700,0,0,20000,120,Yes,Yes,15000,2026-10-07
+APP0084,28,Brazil,Residence permit,2029-02-07,Université Paris-Saclay,PhD,Enrolled,2029-05-07,15000,12845,10000,500,2000,1000,10000,24,No,No,0,2026-10-07
+APP0085,19,Vietnam,Student visa,2028-12-07,Sciences Po,PhD,Enrolled,2027-06-07,3000,16287,10000,0,12000,3000,10000,48,Yes,Yes,50000,2026-10-07
+APP0086,20,Vietnam,Student visa,2027-12-07,Sorbonne University,Master,Enrolled,2028-06-07,12000,9954,3000,0,0,1000,3000,36,Yes,Yes,15000,2026-10-07
+APP0087,23,China,Student visa,2028-01-07,Sciences Po,PhD,Enrolled,2027-11-07,15000,9317,6000,700,2000,1000,10000,120,Yes,Yes,35000,2026-10-07
+APP0088,26,Brazil,Residence permit,2028-07-07,ESSEC,PhD,Enrolled,2029-07-07,15000,10704,3000,0,12000,0,15000,60,No,No,0,2026-10-07
+APP0089,21,Nigeria,Residence permit,2029-07-07,Sorbonne University,PhD,Enrolled,2028-01-07,15000,12741,15000,0,5000,3000,6000,36,Yes,No,50000,2026-10-07
+APP0090,19,Vietnam,Residence permit,2029-07-07,ESSEC,Bachelor,Enrolled,2029-03-07,15000,10007,1000,700,5000,6000,6000,60,Yes,Yes,70000,2026-10-07
+APP0091,22,China,Residence permit,2029-08-07,ESSEC,Bachelor,Enrolled,2027-07-07,3000,10040,10000,700,5000,0,3000,36,Yes,Yes,50000,2026-10-07
+APP0092,31,India,Residence permit,2027-12-07,Sorbonne University,PhD,Enrolled,2027-06-07,12000,14126,0,700,2000,3000,6000,36,No,No,0,2026-10-07
+APP0093,21,Vietnam,Student visa,2028-01-07,Sciences Po,Master,Enrolled,2028-06-07,15000,10098,1000,0,8000,1000,6000,24,Yes,Yes,70000,2026-10-07
+APP0094,26,Germany,Residence permit,2029-04-07,Université Paris-Saclay,Bachelor,Enrolled,2028-06-07,8000,13179,3000,0,12000,0,20000,36,No,No,0,2026-10-07
+APP0095,30,China,Student visa,2028-06-07,Sciences Po,Bachelor,Enrolled,2028-07-07,8000,14179,1000,700,8000,3000,20000,60,Yes,Yes,35000,2026-10-07
+APP0096,26,Germany,Student visa,2027-03-07,ESSEC,PhD,Enrolled,2028-06-07,8000,10875,3000,0,5000,0,10000,120,Yes,Yes,25000,2026-10-07
+APP0097,19,Germany,Student visa,2027-08-07,HEC Paris,Bachelor,Enrolled,2029-09-07,8000,10389,15000,700,8000,3000,25000,24,Yes,Yes,70000,2026-10-07
+APP0098,19,India,Residence permit,2027-12-07,ESSEC,Bachelor,Not enrolled,2028-06-07,8000,11720,6000,0,2000,1000,3000,120,Yes,Yes,15000,2026-10-07
+APP0099,25,Turkey,Student visa,2027-02-07,Sciences Po,Bachelor,Not enrolled,2029-05-07,12000,12041,0,500,12000,0,20000,24,Yes,No,25000,2026-10-07
+APP0100,25,China,Residence permit,2029-07-07,Université Paris-Saclay,Master,Enrolled,2028-09-07,20000,12911,10000,700,2000,3000,3000,60,No,No,0,2026-10-07
+APP0101,21,Italy,Student visa,2028-02-07,Sorbonne University,Bachelor,Enrolled,2029-01-07,12000,10560,10000,0,12000,0,6000,120,Yes,Yes,50000,2026-10-07
+APP0102,20,Brazil,Residence permit,2028-07-07,Paris Dauphine,Bachelor,Enrolled,2029-03-07,20000,17946,6000,0,0,0,10000,120,Yes,Yes,35000,2026-10-07
+APP0103,31,Turkey,Residence permit,2028-12-07,Sciences Po,PhD,Enrolled,2027-07-07,12000,12453,15000,0,12000,1000,10000,120,No,No,0,2026-10-07
+APP0104,22,Nigeria,Residence permit,2027-06-07,Sorbonne University,PhD,Enrolled,2028-10-07,12000,13732,1000,500,5000,3000,3000,60,Yes,Yes,35000,2026-10-07
+APP0105,25,China,Residence permit,2028-02-07,Paris Dauphine,Master,Not enrolled,2029-02-07,8000,13648,1000,700,5000,1000,10000,36,No,No,0,2026-10-07
+APP0106,30,Nigeria,Student visa,2027-02-07,HEC Paris,Master,Enrolled,2027-08-07,3000,14543,6000,300,2000,0,20000,36,Yes,Yes,25000,2026-10-07
+APP0107,23,Vietnam,Student visa,2028-08-07,Sorbonne University,Bachelor,Enrolled,2028-03-07,12000,9575,3000,300,5000,0,10000,24,Yes,Yes,15000,2026-10-07
+APP0108,30,Nigeria,Residence permit,2029-04-07,ESSEC,Master,Enrolled,2027-09-07,3000,9956,0,900,0,0,3000,24,No,No,0,2026-10-07
+APP0109,23,China,Residence permit,2029-09-07,ESSEC,PhD,Enrolled,2028-05-07,12000,17467,15000,900,0,6000,15000,24,Yes,Yes,70000,2026-10-07
+APP0110,25,Germany,Residence permit,2028-08-07,Sciences Po,PhD,Enrolled,2029-09-07,3000,10969,1000,500,12000,0,15000,120,Yes,Yes,35000,2026-10-07
+APP0111,20,Turkey,Student visa,2027-01-07,Paris Dauphine,Master,Enrolled,2029-05-07,8000,15257,1000,700,12000,3000,3000,24,No,No,0,2026-10-07
+APP0112,23,Brazil,Residence permit,2027-05-07,Paris Dauphine,Bachelor,Enrolled,2029-09-07,12000,14105,6000,300,12000,6000,15000,120,Yes,Yes,25000,2026-10-07
+APP0113,31,Italy,Residence permit,2027-04-07,ESSEC,PhD,Enrolled,2027-09-07,20000,10000,3000,700,2000,0,15000,120,Yes,Yes,50000,2026-10-07
+APP0114,23,Turkey,Residence permit,2028-07-07,Université Paris-Saclay,PhD,Enrolled,2029-04-07,12000,17927,3000,0,0,1000,15000,36,Yes,Yes,25000,2026-10-07
+APP0115,27,China,Residence permit,2027-03-07,Université Paris-Saclay,Bachelor,Enrolled,2027-11-07,8000,10177,1000,0,5000,0,10000,48,No,No,0,2026-10-07
+APP0116,24,Vietnam,Student visa,2028-09-07,Sciences Po,Master,Enrolled,2029-02-07,15000,14243,15000,500,2000,0,10000,48,No,No,0,2026-10-07
+APP0117,22,India,Student visa,2029-03-07,ESSEC,Master,Not enrolled,2029-07-07,8000,16311,0,700,2000,6000,20000,48,Yes,Yes,25000,2026-10-07
+APP0118,25,China,Residence permit,2028-08-07,Université Paris-Saclay,Master,Enrolled,2027-10-07,15000,14291,0,500,12000,1000,20000,60,Yes,No,50000,2026-10-07
+APP0119,28,China,Residence permit,2027-08-07,Université Paris-Saclay,Master,Enrolled,2028-08-07,3000,10316,3000,700,12000,1000,20000,48,Yes,Yes,35000,2026-10-07
+APP0120,19,Morocco,Residence permit,2029-09-07,HEC Paris,PhD,Enrolled,2028-08-07,0,11852,6000,500,5000,0,10000,120,Yes,Yes,35000,2026-10-07
+APP0121,25,Vietnam,Student visa,2028-09-07,Sorbonne University,Master,Enrolled,2028-01-07,8000,15602,15000,0,0,3000,10000,120,Yes,Yes,25000,2026-10-07
+APP0122,21,Morocco,Student visa,2027-09-07,Université Paris-Saclay,PhD,Enrolled,2029-06-07,3000,9707,3000,700,8000,0,15000,36,Yes,Yes,50000,2026-10-07
+APP0123,24,Vietnam,Residence permit,2027-06-07,Université Paris-Saclay,Bachelor,Enrolled,2028-03-07,12000,12874,10000,300,0,1000,25000,120,Yes,Yes,35000,2026-10-07
+APP0124,28,Vietnam,Residence permit,2029-06-07,Sorbonne University,Master,Enrolled,2028-07-07,0,12719,10000,900,2000,0,6000,120,Yes,Yes,15000,2026-10-07
+APP0125,26,Italy,Residence permit,2027-01-07,HEC Paris,Master,Enrolled,2028-12-07,0,15549,0,700,0,3000,15000,36,No,No,0,2026-10-07
+APP0126,31,USA,Student visa,2027-02-07,Université Paris-Saclay,Master,Enrolled,2027-05-07,20000,11496,3000,300,5000,1000,10000,48,Yes,Yes,25000,2026-10-07
+APP0127,24,Brazil,Student visa,2027-12-07,ESSEC,PhD,Not enrolled,2028-01-07,8000,14548,3000,700,12000,3000,15000,60,No,No,0,2026-10-07
+APP0128,23,Italy,Residence permit,2027-02-07,Paris Dauphine,Bachelor,Enrolled,2027-06-07,3000,14907,6000,900,5000,0,6000,24,No,No,0,2026-10-07
+APP0129,21,Vietnam,Student visa,2027-06-07,Sorbonne University,Bachelor,Enrolled,2028-12-07,0,11964,0,0,12000,1000,25000,60,Yes,Yes,15000,2026-10-07
+APP0130,30,India,Student visa,2027-06-07,Sorbonne University,Master,Enrolled,2028-02-07,12000,14179,3000,300,5000,0,6000,48,Yes,Yes,25000,2026-10-07
+APP0131,26,Italy,Student visa,2028-03-07,HEC Paris,Master,Not enrolled,2028-10-07,0,14448,10000,0,0,1000,15000,60,No,No,0,2026-10-07
+APP0132,19,Italy,Student visa,2029-05-07,Sciences Po,PhD,Enrolled,2029-07-07,15000,16857,1000,700,5000,0,10000,60,No,No,0,2026-10-07
+APP0133,23,Morocco,Residence permit,2027-02-07,HEC Paris,Bachelor,Enrolled,2028-12-07,0,16758,6000,500,0,1000,6000,36,Yes,Yes,25000,2026-10-07
+APP0134,31,Brazil,Student visa,2029-08-07,Paris Dauphine,Master,Enrolled,2027-06-07,3000,13798,3000,0,0,0,20000,60,Yes,No,50000,2026-10-07
+APP0135,31,Nigeria,Student visa,2028-09-07,Sciences Po,PhD,Not enrolled,2028-08-07,20000,9016,6000,900,8000,0,6000,36,Yes,No,35000,2026-10-07
+APP0136,29,USA,Student visa,2027-08-07,Université Paris-Saclay,Bachelor,Enrolled,2027-11-07,3000,17080,0,500,0,3000,10000,120,Yes,No,35000,2026-10-07
+APP0137,19,China,Residence permit,2028-12-07,Sorbonne University,Master,Enrolled,2028-08-07,20000,15420,3000,300,12000,6000,25000,48,Yes,Yes,50000,2026-10-07
+APP0138,24,Germany,Residence permit,2029-08-07,HEC Paris,PhD,Enrolled,2028-01-07,0,15511,15000,0,8000,1000,10000,36,Yes,Yes,15000,2026-10-07
+APP0139,27,Germany,Residence permit,2029-01-07,Université Paris-Saclay,Master,Enrolled,2029-09-07,15000,11196,1000,300,0,0,25000,60,Yes,Yes,25000,2026-10-07
+APP0140,20,Brazil,Residence permit,2027-09-07,HEC Paris,Master,Enrolled,2029-06-07,12000,16128,1000,0,12000,1000,10000,24,Yes,Yes,15000,2026-10-07
+APP0141,25,Nigeria,Residence permit,2027-12-07,Université Paris-Saclay,Master,Not enrolled,2028-09-07,12000,16165,3000,700,8000,3000,15000,48,Yes,Yes,50000,2026-10-07
+APP0142,30,Nigeria,Residence permit,2029-05-07,HEC Paris,Bachelor,Enrolled,2027-05-07,0,13558,0,900,5000,0,6000,48,Yes,Yes,25000,2026-10-07
+APP0143,19,Vietnam,Student visa,2027-03-07,ESSEC,Master,Enrolled,2028-10-07,0,14926,6000,700,5000,0,10000,24,No,No,0,2026-10-07
+APP0144,21,Turkey,Student visa,2027-01-07,Sorbonne University,Bachelor,Enrolled,2027-06-07,8000,17033,1000,500,8000,1000,6000,24,No,No,0,2026-10-07
+APP0145,28,Nigeria,Residence permit,2029-02-07,Sciences Po,Bachelor,Enrolled,2028-03-07,12000,10037,10000,700,8000,3000,20000,48,Yes,Yes,35000,2026-10-07
+APP0146,22,Nigeria,Student visa,2027-04-07,HEC Paris,Master,Enrolled,2029-03-07,3000,16321,3000,300,8000,0,15000,60,No,No,0,2026-10-07
+APP0147,25,Turkey,Residence permit,2027-04-07,HEC Paris,Bachelor,Enrolled,2027-06-07,0,13431,1000,700,0,0,10000,48,Yes,Yes,25000,2026-10-07
+APP0148,21,Nigeria,Residence permit,2028-10-07,HEC Paris,PhD,Enrolled,2028-03-07,15000,14093,1000,700,5000,0,3000,24,Yes,No,35000,2026-10-07
+APP0149,29,India,Residence permit,2029-04-07,HEC Paris,Bachelor,Enrolled,2028-02-07,12000,14237,6000,300,5000,3000,3000,60,Yes,Yes,25000,2026-10-07
+APP0150,27,Turkey,Residence permit,2027-10-07,HEC Paris,Master,Enrolled,2028-04-07,12000,15397,6000,500,12000,3000,3000,48,Yes,Yes,35000,2026-10-07

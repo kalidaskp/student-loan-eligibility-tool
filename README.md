@@ -1,7 +1,9 @@
 # Student Loan Eligibility & Risk-Screening Tool
 
 A rule-based tool that helps bank credit analysts assess whether an international
-student is eligible for a student loan in France.
+student is eligible for a student loan in France where two scenario created-
+1. A standard loan
+2. A micro-credit loan
 
 The tool checks applicant information against predefined eligibility rules,
 identifies missing documents or risk factors, and returns one of three decisions:
@@ -52,6 +54,8 @@ student-loan-eligibility-tool/
 ├── python/
 │   ├── generate_data.py
 │   └── eligibility_checker.py
+|   └── check_micro_loan_eligibility.py
+│   └── generate_micro_loan_data.py
 │
 ├── README.md
 └── requirements.txt

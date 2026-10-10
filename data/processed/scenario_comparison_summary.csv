@@ -1,0 +1,6 @@
+scenario,decision,application_count,percentage
+standard_student_loan,Not eligible,145,96.7
+standard_student_loan,Conditional,5,3.3
+short_term_micro_loan,Conditional,123,82.0
+short_term_micro_loan,Not eligible,15,10.0
+short_term_micro_loan,Eligible,12,8.0
